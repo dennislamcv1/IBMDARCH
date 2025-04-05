@@ -1,5 +1,5 @@
-# IBMDArch
-## IBM Data Architect Professional Certificate
+# IBMDARCH
+## IBM Data Architecture Professional Certificate (13 course series)
 
 Kickstart your career in the high-growth field of data architecture. In this program, you’ll learn in-demand skills like data modeling, database design, and enterprise data management to build scalable and secure data systems.
 
