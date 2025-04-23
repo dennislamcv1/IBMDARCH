@@ -1,0 +1,28 @@
+digraph FashionMart_EDA_Blueprint {
+	rankdir=LR size="10,5"
+	node [fontname=Helvetica fontsize=10 shape=box style="rounded,filled"]
+	"Data Sources" [label="POS Systems
+Customer Transactions
+Supplier DBs
+3rd-Party Feeds" fillcolor="#DCE6F1"]
+	Ingestion [label="Kafka / Kinesis
+ETL (Talend, NiFi, dbt)
+API Gateway" fillcolor="#FFF2CC"]
+	Storage [label="Snowflake / BigQuery
+DynamoDB / Redis
+S3 / Salesforce" fillcolor="#D5E8D4"]
+	Processing [label="Spark / Airflow
+dbt, pandas" fillcolor="#E1D5E7"]
+	Analytics [label="Power BI, Tableau
+SageMaker, Segment" fillcolor="#F8CECC"]
+	Security [label="Encryption (AES)
+RBAC, OAuth2
+Monitoring Tools" fillcolor="#F4CCCC"]
+	"Data Sources" -> Ingestion
+	Ingestion -> Storage
+	Storage -> Processing
+	Processing -> Analytics
+	Storage -> Security
+	Processing -> Security
+	Analytics -> Security
+}

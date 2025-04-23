@@ -1,0 +1,839 @@
+[
+    {
+        "product_name": "T-Shirt",
+        "category": "Clothing",
+        "size": "M",
+        "color": "Red",
+        "price": 19.99,
+        "quantity_in_stock": 100,
+        "date_added": "2025-04-23T06:46:14.179658"
+    },
+    {
+        "product_name": "Jeans",
+        "category": "Clothing",
+        "size": "L",
+        "color": "Blue",
+        "price": 49.99,
+        "quantity_in_stock": 50,
+        "date_added": "2025-04-23T06:46:14.179667"
+    },
+    {
+        "product_name": "Jacket",
+        "category": "Outerwear",
+        "size": "M",
+        "color": "Black",
+        "price": 89.99,
+        "quantity_in_stock": 30,
+        "date_added": "2025-04-23T06:46:14.179671"
+    },
+    {
+        "product_name": "Sneakers",
+        "category": "Footwear",
+        "size": "8",
+        "color": "White",
+        "price": 59.99,
+        "quantity_in_stock": 200,
+        "date_added": "2025-04-23T06:46:14.179674"
+    },
+    {
+        "product_name": "Sweater",
+        "category": "Clothing",
+        "size": "L",
+        "color": "Grey",
+        "price": 29.99,
+        "quantity_in_stock": 75,
+        "date_added": "2025-04-23T06:46:14.179679"
+    },
+    {
+        "product_name": "Dress",
+        "category": "Clothing",
+        "size": "S",
+        "color": "Black",
+        "price": 59.99,
+        "quantity_in_stock": 20,
+        "date_added": "2025-04-23T06:46:14.179684"
+    },
+    {
+        "product_name": "Hoodie",
+        "category": "Clothing",
+        "size": "M",
+        "color": "Navy",
+        "price": 39.99,
+        "quantity_in_stock": 150,
+        "date_added": "2025-04-23T06:46:14.179689"
+    },
+    {
+        "product_name": "Shorts",
+        "category": "Clothing",
+        "size": "L",
+        "color": "Khaki",
+        "price": 25.99,
+        "quantity_in_stock": 80,
+        "date_added": "2025-04-23T06:46:14.179696"
+    },
+    {
+        "product_name": "Scarf",
+        "category": "Accessories",
+        "size": "One Size",
+        "color": "Red",
+        "price": 15.99,
+        "quantity_in_stock": 200,
+        "date_added": "2025-04-23T06:46:14.179702"
+    },
+    {
+        "product_name": "Gloves",
+        "category": "Accessories",
+        "size": "One Size",
+        "color": "Black",
+        "price": 9.99,
+        "quantity_in_stock": 150,
+        "date_added": "2025-04-23T06:46:14.179708"
+    },
+    {
+        "product_name": "Boots",
+        "category": "Footwear",
+        "size": "9",
+        "color": "Brown",
+        "price": 89.99,
+        "quantity_in_stock": 40,
+        "date_added": "2025-04-23T06:46:14.179713"
+    },
+    {
+        "product_name": "T-Shirt",
+        "category": "Clothing",
+        "size": "S",
+        "color": "Green",
+        "price": 17.99,
+        "quantity_in_stock": 120,
+        "date_added": "2025-04-23T06:46:14.179718"
+    },
+    {
+        "product_name": "Leggings",
+        "category": "Clothing",
+        "size": "M",
+        "color": "Black",
+        "price": 29.99,
+        "quantity_in_stock": 130,
+        "date_added": "2025-04-23T06:46:14.179723"
+    },
+    {
+        "product_name": "Cap",
+        "category": "Accessories",
+        "size": "One Size",
+        "color": "Blue",
+        "price": 19.99,
+        "quantity_in_stock": 90,
+        "date_added": "2025-04-23T06:46:14.179728"
+    },
+    {
+        "product_name": "Socks",
+        "category": "Accessories",
+        "size": "One Size",
+        "color": "White",
+        "price": 5.99,
+        "quantity_in_stock": 500,
+        "date_added": "2025-04-23T06:46:14.179733"
+    },
+    {
+        "product_name": "Blouse",
+        "category": "Clothing",
+        "size": "M",
+        "color": "White",
+        "price": 39.99,
+        "quantity_in_stock": 70,
+        "date_added": "2025-04-23T06:46:14.179738"
+    },
+    {
+        "product_name": "Skirt",
+        "category": "Clothing",
+        "size": "S",
+        "color": "Pink",
+        "price": 24.99,
+        "quantity_in_stock": 60,
+        "date_added": "2025-04-23T06:46:14.179741"
+    },
+    {
+        "product_name": "Sweater",
+        "category": "Clothing",
+        "size": "XL",
+        "color": "Beige",
+        "price": 35.99,
+        "quantity_in_stock": 50,
+        "date_added": "2025-04-23T06:46:14.179745"
+    },
+    {
+        "product_name": "Raincoat",
+        "category": "Outerwear",
+        "size": "L",
+        "color": "Yellow",
+        "price": 69.99,
+        "quantity_in_stock": 30,
+        "date_added": "2025-04-23T06:46:14.179749"
+    },
+    {
+        "product_name": "Polo",
+        "category": "Clothing",
+        "size": "M",
+        "color": "Red",
+        "price": 22.99,
+        "quantity_in_stock": 200,
+        "date_added": "2025-04-23T06:46:14.179752"
+    },
+    {
+        "product_name": "Cargo Pants",
+        "category": "Clothing",
+        "size": "L",
+        "color": "Olive",
+        "price": 34.99,
+        "quantity_in_stock": 80,
+        "date_added": "2025-04-23T06:46:14.179755"
+    },
+    {
+        "product_name": "Blazer",
+        "category": "Clothing",
+        "size": "L",
+        "color": "Black",
+        "price": 89.99,
+        "quantity_in_stock": 40,
+        "date_added": "2025-04-23T06:46:14.179757"
+    },
+    {
+        "product_name": "Chinos",
+        "category": "Clothing",
+        "size": "M",
+        "color": "Navy",
+        "price": 45.99,
+        "quantity_in_stock": 90,
+        "date_added": "2025-04-23T06:46:14.179761"
+    },
+    {
+        "product_name": "Boots",
+        "category": "Footwear",
+        "size": "10",
+        "color": "Black",
+        "price": 79.99,
+        "quantity_in_stock": 60,
+        "date_added": "2025-04-23T06:46:14.179764"
+    },
+    {
+        "product_name": "Sneakers",
+        "category": "Footwear",
+        "size": "7",
+        "color": "Grey",
+        "price": 69.99,
+        "quantity_in_stock": 100,
+        "date_added": "2025-04-23T06:46:14.179767"
+    },
+    {
+        "product_name": "Shirt",
+        "category": "Clothing",
+        "size": "S",
+        "color": "Blue",
+        "price": 27.99,
+        "quantity_in_stock": 75,
+        "date_added": "2025-04-23T06:46:14.179770"
+    },
+    {
+        "product_name": "Puffer Jacket",
+        "category": "Outerwear",
+        "size": "M",
+        "color": "Red",
+        "price": 99.99,
+        "quantity_in_stock": 25,
+        "date_added": "2025-04-23T06:46:14.179789"
+    },
+    {
+        "product_name": "Tank Top",
+        "category": "Clothing",
+        "size": "S",
+        "color": "White",
+        "price": 14.99,
+        "quantity_in_stock": 150,
+        "date_added": "2025-04-23T06:46:14.179795"
+    },
+    {
+        "product_name": "Joggers",
+        "category": "Clothing",
+        "size": "M",
+        "color": "Black",
+        "price": 39.99,
+        "quantity_in_stock": 120,
+        "date_added": "2025-04-23T06:46:14.179800"
+    },
+    {
+        "product_name": "Tracksuit",
+        "category": "Clothing",
+        "size": "L",
+        "color": "Black",
+        "price": 59.99,
+        "quantity_in_stock": 60,
+        "date_added": "2025-04-23T06:46:14.179805"
+    },
+    {
+        "product_name": "Fleece Jacket",
+        "category": "Outerwear",
+        "size": "XL",
+        "color": "Grey",
+        "price": 79.99,
+        "quantity_in_stock": 35,
+        "date_added": "2025-04-23T06:46:14.179810"
+    },
+    {
+        "product_name": "Rain Boots",
+        "category": "Footwear",
+        "size": "8",
+        "color": "Yellow",
+        "price": 39.99,
+        "quantity_in_stock": 100,
+        "date_added": "2025-04-23T06:46:14.179815"
+    },
+    {
+        "product_name": "Linen Shirt",
+        "category": "Clothing",
+        "size": "L",
+        "color": "White",
+        "price": 45.99,
+        "quantity_in_stock": 50,
+        "date_added": "2025-04-23T06:46:14.179821"
+    },
+    {
+        "product_name": "Wool Sweater",
+        "category": "Clothing",
+        "size": "S",
+        "color": "Brown",
+        "price": 60.0,
+        "quantity_in_stock": 40,
+        "date_added": "2025-04-23T06:46:14.179837"
+    },
+    {
+        "product_name": "Beanie",
+        "category": "Accessories",
+        "size": "One Size",
+        "color": "Grey",
+        "price": 12.99,
+        "quantity_in_stock": 120,
+        "date_added": "2025-04-23T06:46:14.179842"
+    },
+    {
+        "product_name": "Cardigan",
+        "category": "Clothing",
+        "size": "M",
+        "color": "Beige",
+        "price": 49.99,
+        "quantity_in_stock": 30,
+        "date_added": "2025-04-23T06:46:14.179847"
+    },
+    {
+        "product_name": "Chukka Boots",
+        "category": "Footwear",
+        "size": "9",
+        "color": "Tan",
+        "price": 69.99,
+        "quantity_in_stock": 100,
+        "date_added": "2025-04-23T06:46:14.179853"
+    },
+    {
+        "product_name": "Windbreaker",
+        "category": "Outerwear",
+        "size": "S",
+        "color": "Black",
+        "price": 45.99,
+        "quantity_in_stock": 75,
+        "date_added": "2025-04-23T06:46:14.179858"
+    },
+    {
+        "product_name": "Flannel Shirt",
+        "category": "Clothing",
+        "size": "M",
+        "color": "Red/Black",
+        "price": 34.99,
+        "quantity_in_stock": 60,
+        "date_added": "2025-04-23T06:46:14.179863"
+    },
+    {
+        "product_name": "V-neck T-Shirt",
+        "category": "Clothing",
+        "size": "L",
+        "color": "Grey",
+        "price": 22.99,
+        "quantity_in_stock": 110,
+        "date_added": "2025-04-23T06:46:14.179869"
+    },
+    {
+        "product_name": "Leather Jacket",
+        "category": "Outerwear",
+        "size": "M",
+        "color": "Brown",
+        "price": 199.99,
+        "quantity_in_stock": 15,
+        "date_added": "2025-04-23T06:46:14.179874"
+    },
+    {
+        "product_name": "Ankle Boots",
+        "category": "Footwear",
+        "size": "8",
+        "color": "Black",
+        "price": 79.99,
+        "quantity_in_stock": 80,
+        "date_added": "2025-04-23T06:46:14.179880"
+    },
+    {
+        "product_name": "Wristwatch",
+        "category": "Accessories",
+        "size": "One Size",
+        "color": "Silver",
+        "price": 99.99,
+        "quantity_in_stock": 50,
+        "date_added": "2025-04-23T06:46:14.179885"
+    },
+    {
+        "product_name": "Belt",
+        "category": "Accessories",
+        "size": "One Size",
+        "color": "Black",
+        "price": 18.99,
+        "quantity_in_stock": 200,
+        "date_added": "2025-04-23T06:46:14.179890"
+    },
+    {
+        "product_name": "Slip-ons",
+        "category": "Footwear",
+        "size": "7",
+        "color": "White",
+        "price": 39.99,
+        "quantity_in_stock": 120,
+        "date_added": "2025-04-23T06:46:14.179895"
+    },
+    {
+        "product_name": "Sundress",
+        "category": "Clothing",
+        "size": "M",
+        "color": "Floral",
+        "price": 44.99,
+        "quantity_in_stock": 30,
+        "date_added": "2025-04-23T06:46:14.179900"
+    },
+    {
+        "product_name": "Peacoat",
+        "category": "Outerwear",
+        "size": "S",
+        "color": "Navy",
+        "price": 129.99,
+        "quantity_in_stock": 25,
+        "date_added": "2025-04-23T06:46:14.179905"
+    },
+    {
+        "product_name": "Cargo Shorts",
+        "category": "Clothing",
+        "size": "L",
+        "color": "Grey",
+        "price": 27.99,
+        "quantity_in_stock": 100,
+        "date_added": "2025-04-23T06:46:14.179909"
+    },
+    {
+        "product_name": "Sweatpants",
+        "category": "Clothing",
+        "size": "M",
+        "color": "Black",
+        "price": 28.99,
+        "quantity_in_stock": 110,
+        "date_added": "2025-04-23T06:46:14.179914"
+    },
+    {
+        "product_name": "Running Shoes",
+        "category": "Footwear",
+        "size": "9",
+        "color": "Blue",
+        "price": 89.99,
+        "quantity_in_stock": 150,
+        "date_added": "2025-04-23T06:46:14.179919"
+    },
+    {
+        "product_name": "Sunglasses",
+        "category": "Accessories",
+        "size": "One Size",
+        "color": "Black",
+        "price": 29.99,
+        "quantity_in_stock": 90,
+        "date_added": "2025-04-23T06:46:14.179924"
+    },
+    {
+        "product_name": "Sport Bra",
+        "category": "Clothing",
+        "size": "M",
+        "color": "Pink",
+        "price": 19.99,
+        "quantity_in_stock": 150,
+        "date_added": "2025-04-23T06:46:14.179938"
+    },
+    {
+        "product_name": "Flip Flops",
+        "category": "Footwear",
+        "size": "8",
+        "color": "Blue",
+        "price": 14.99,
+        "quantity_in_stock": 200,
+        "date_added": "2025-04-23T06:46:14.179942"
+    },
+    {
+        "product_name": "Sports Shorts",
+        "category": "Clothing",
+        "size": "M",
+        "color": "Grey",
+        "price": 22.99,
+        "quantity_in_stock": 120,
+        "date_added": "2025-04-23T06:46:14.179945"
+    },
+    {
+        "product_name": "Thermal Shirt",
+        "category": "Clothing",
+        "size": "L",
+        "color": "Black",
+        "price": 49.99,
+        "quantity_in_stock": 50,
+        "date_added": "2025-04-23T06:46:14.179948"
+    },
+    {
+        "product_name": "Wrap Dress",
+        "category": "Clothing",
+        "size": "S",
+        "color": "Blue",
+        "price": 55.99,
+        "quantity_in_stock": 40,
+        "date_added": "2025-04-23T06:46:14.179951"
+    },
+    {
+        "product_name": "Chinos",
+        "category": "Clothing",
+        "size": "XL",
+        "color": "Khaki",
+        "price": 44.99,
+        "quantity_in_stock": 70,
+        "date_added": "2025-04-23T06:46:14.179954"
+    },
+    {
+        "product_name": "Moccasins",
+        "category": "Footwear",
+        "size": "9",
+        "color": "Brown",
+        "price": 49.99,
+        "quantity_in_stock": 60,
+        "date_added": "2025-04-23T06:46:14.179957"
+    },
+    {
+        "product_name": "Gaiters",
+        "category": "Accessories",
+        "size": "One Size",
+        "color": "Green",
+        "price": 25.99,
+        "quantity_in_stock": 30,
+        "date_added": "2025-04-23T06:46:14.179960"
+    },
+    {
+        "product_name": "Thermal Socks",
+        "category": "Accessories",
+        "size": "One Size",
+        "color": "Red",
+        "price": 12.99,
+        "quantity_in_stock": 100,
+        "date_added": "2025-04-23T06:46:14.179963"
+    },
+    {
+        "product_name": "Fleece Pants",
+        "category": "Clothing",
+        "size": "L",
+        "color": "Grey",
+        "price": 39.99,
+        "quantity_in_stock": 80,
+        "date_added": "2025-04-23T06:46:14.179966"
+    },
+    {
+        "product_name": "Bermuda Shorts",
+        "category": "Clothing",
+        "size": "L",
+        "color": "Beige",
+        "price": 29.99,
+        "quantity_in_stock": 100,
+        "date_added": "2025-04-23T06:46:14.179969"
+    },
+    {
+        "product_name": "Chiffon Blouse",
+        "category": "Clothing",
+        "size": "M",
+        "color": "White",
+        "price": 39.99,
+        "quantity_in_stock": 70,
+        "date_added": "2025-04-23T06:46:14.179972"
+    },
+    {
+        "product_name": "Clogs",
+        "category": "Footwear",
+        "size": "8",
+        "color": "Black",
+        "price": 39.99,
+        "quantity_in_stock": 50,
+        "date_added": "2025-04-23T06:46:14.179975"
+    },
+    {
+        "product_name": "Wool Hat",
+        "category": "Accessories",
+        "size": "One Size",
+        "color": "Pink",
+        "price": 15.99,
+        "quantity_in_stock": 80,
+        "date_added": "2025-04-23T06:46:14.179978"
+    },
+    {
+        "product_name": "Track Pants",
+        "category": "Clothing",
+        "size": "L",
+        "color": "Black",
+        "price": 34.99,
+        "quantity_in_stock": 90,
+        "date_added": "2025-04-23T06:46:14.179981"
+    },
+    {
+        "product_name": "Hiking Boots",
+        "category": "Footwear",
+        "size": "10",
+        "color": "Brown",
+        "price": 129.99,
+        "quantity_in_stock": 40,
+        "date_added": "2025-04-23T06:46:14.179984"
+    },
+    {
+        "product_name": "Skater Dress",
+        "category": "Clothing",
+        "size": "S",
+        "color": "Purple",
+        "price": 55.99,
+        "quantity_in_stock": 30,
+        "date_added": "2025-04-23T06:46:14.179987"
+    },
+    {
+        "product_name": "Mesh T-Shirt",
+        "category": "Clothing",
+        "size": "M",
+        "color": "Black",
+        "price": 21.99,
+        "quantity_in_stock": 130,
+        "date_added": "2025-04-23T06:46:14.179990"
+    },
+    {
+        "product_name": "Casual Loafers",
+        "category": "Footwear",
+        "size": "7",
+        "color": "Tan",
+        "price": 59.99,
+        "quantity_in_stock": 60,
+        "date_added": "2025-04-23T06:46:14.179993"
+    },
+    {
+        "product_name": "Leggings",
+        "category": "Clothing",
+        "size": "L",
+        "color": "Black",
+        "price": 24.99,
+        "quantity_in_stock": 200,
+        "date_added": "2025-04-23T06:46:14.179995"
+    },
+    {
+        "product_name": "Bootcut Jeans",
+        "category": "Clothing",
+        "size": "M",
+        "color": "Blue",
+        "price": 54.99,
+        "quantity_in_stock": 80,
+        "date_added": "2025-04-23T06:46:14.179998"
+    },
+    {
+        "product_name": "Straw Hat",
+        "category": "Accessories",
+        "size": "One Size",
+        "color": "Beige",
+        "price": 19.99,
+        "quantity_in_stock": 50,
+        "date_added": "2025-04-23T06:46:14.180001"
+    },
+    {
+        "product_name": "Sweatshirt",
+        "category": "Clothing",
+        "size": "S",
+        "color": "Red",
+        "price": 39.99,
+        "quantity_in_stock": 120,
+        "date_added": "2025-04-23T06:46:14.180004"
+    },
+    {
+        "product_name": "Peacoat",
+        "category": "Outerwear",
+        "size": "M",
+        "color": "Gray",
+        "price": 129.99,
+        "quantity_in_stock": 50,
+        "date_added": "2025-04-23T06:46:14.180007"
+    },
+    {
+        "product_name": "Robe",
+        "category": "Clothing",
+        "size": "L",
+        "color": "White",
+        "price": 59.99,
+        "quantity_in_stock": 70,
+        "date_added": "2025-04-23T06:46:14.180010"
+    },
+    {
+        "product_name": "Ankle Socks",
+        "category": "Accessories",
+        "size": "One Size",
+        "color": "White",
+        "price": 4.99,
+        "quantity_in_stock": 300,
+        "date_added": "2025-04-23T06:46:14.180013"
+    },
+    {
+        "product_name": "Flip Flops",
+        "category": "Footwear",
+        "size": "9",
+        "color": "Yellow",
+        "price": 18.99,
+        "quantity_in_stock": 150,
+        "date_added": "2025-04-23T06:46:14.180016"
+    },
+    {
+        "product_name": "Pajama Set",
+        "category": "Clothing",
+        "size": "M",
+        "color": "Pink",
+        "price": 39.99,
+        "quantity_in_stock": 90,
+        "date_added": "2025-04-23T06:46:14.180020"
+    },
+    {
+        "product_name": "Snow Boots",
+        "category": "Footwear",
+        "size": "8",
+        "color": "Pink",
+        "price": 99.99,
+        "quantity_in_stock": 25,
+        "date_added": "2025-04-23T06:46:14.180024"
+    },
+    {
+        "product_name": "Shirt Dress",
+        "category": "Clothing",
+        "size": "S",
+        "color": "Light Blue",
+        "price": 45.99,
+        "quantity_in_stock": 40,
+        "date_added": "2025-04-23T06:46:14.180030"
+    },
+    {
+        "product_name": "Cargo Pants",
+        "category": "Clothing",
+        "size": "M",
+        "color": "Black",
+        "price": 49.99,
+        "quantity_in_stock": 60,
+        "date_added": "2025-04-23T06:46:14.180034"
+    },
+    {
+        "product_name": "Dress Shoes",
+        "category": "Footwear",
+        "size": "10",
+        "color": "Black",
+        "price": 75.99,
+        "quantity_in_stock": 45,
+        "date_added": "2025-04-23T06:46:14.180039"
+    },
+    {
+        "product_name": "Knitted Hat",
+        "category": "Accessories",
+        "size": "One Size",
+        "color": "Red",
+        "price": 14.99,
+        "quantity_in_stock": 200,
+        "date_added": "2025-04-23T06:46:14.180044"
+    },
+    {
+        "product_name": "Slippers",
+        "category": "Footwear",
+        "size": "7",
+        "color": "Pink",
+        "price": 22.99,
+        "quantity_in_stock": 120,
+        "date_added": "2025-04-23T06:46:14.180049"
+    },
+    {
+        "product_name": "Rugby Shirt",
+        "category": "Clothing",
+        "size": "L",
+        "color": "Green",
+        "price": 39.99,
+        "quantity_in_stock": 60,
+        "date_added": "2025-04-23T06:46:14.180054"
+    },
+    {
+        "product_name": "Skater Shoes",
+        "category": "Footwear",
+        "size": "8",
+        "color": "Red",
+        "price": 54.99,
+        "quantity_in_stock": 90,
+        "date_added": "2025-04-23T06:46:14.180059"
+    },
+    {
+        "product_name": "Bandana",
+        "category": "Accessories",
+        "size": "One Size",
+        "color": "Black",
+        "price": 9.99,
+        "quantity_in_stock": 100,
+        "date_added": "2025-04-23T06:46:14.180062"
+    },
+    {
+        "product_name": "Sport Shorts",
+        "category": "Clothing",
+        "size": "S",
+        "color": "Yellow",
+        "price": 18.99,
+        "quantity_in_stock": 130,
+        "date_added": "2025-04-23T06:46:14.180065"
+    },
+    {
+        "product_name": "Wrap Skirt",
+        "category": "Clothing",
+        "size": "L",
+        "color": "White",
+        "price": 39.99,
+        "quantity_in_stock": 50,
+        "date_added": "2025-04-23T06:46:14.180067"
+    },
+    {
+        "product_name": "Biker Jacket",
+        "category": "Outerwear",
+        "size": "M",
+        "color": "Black",
+        "price": 149.99,
+        "quantity_in_stock": 20,
+        "date_added": "2025-04-23T06:46:14.180070"
+    },
+    {
+        "product_name": "Knee-high Boots",
+        "category": "Footwear",
+        "size": "8",
+        "color": "Brown",
+        "price": 99.99,
+        "quantity_in_stock": 70,
+        "date_added": "2025-04-23T06:46:14.180073"
+    },
+    {
+        "product_name": "Chino Shorts",
+        "category": "Clothing",
+        "size": "M",
+        "color": "Blue",
+        "price": 29.99,
+        "quantity_in_stock": 100,
+        "date_added": "2025-04-23T06:46:14.180077"
+    }
+]
