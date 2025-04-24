@@ -1,11 +1,16 @@
 #!/bin/bash
 
 # --- User-defined Variables ---
-DBUSERNAME="your_mysql_username"
-DBPASSWORD="your_mysql_password"
-HOST="localhost"
+DBUSERNAME="root"
+DBPASSWORD="EiEE3xgXWgbB8nUOMEeAUSDA"
+HOST="172.21.151.111"
 DB_NAME="webproducts"
-BACKUP_DIRECTORY="/path/to/your/backup/directory"
+BACKUP_DIRECTORY="/home/project/"
+
+# --- Optional: Add this script to crontab if not already scheduled ---
+CRON_JOB="0 23 * * * /home/project/exercise_4_mysql_backup.sh"
+(crontab -l 2>/dev/null | grep -F "$CRON_JOB") || (crontab -l 2>/dev/null; echo "$CRON_JOB") | crontab -
+
 
 # --- Generate the backup filename with current date ---
 CURRENT_DATE=$(date +%F)  # Format: YYYY-MM-DD

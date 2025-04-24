@@ -20,7 +20,7 @@ sort filtered_data.csv > sorted_data.csv
 
 # Step 4: Count the number of products
 echo "Step 5: Counting the number of  products..."
-cut -d',' -f1 filtered_data.csv | sort | uniq -c | sort -nr > final_data.csv
+wc -l < filtered_data.csv > final_data.csv
 
 # Final output
 echo "Product launch statistics"
